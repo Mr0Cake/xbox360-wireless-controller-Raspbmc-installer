@@ -18,8 +18,8 @@ chmod 751 rc.local
 
 mv /etc/rc.local /etc/rc.local.bak
 cp rc.local /etc/rc.local 
-mv /home/pi/.xbmc/userdata/keymaps/keyboard.xml /home/pi/.xbmc/userdata/keymaps/keyboard.bak
-cp mapping_keyboard /home/pi/.xbmc/userdata/keymaps/keyboard.xml
+mv /home/pi/.kodi/userdata/keymaps/keyboard.xml /home/pi/.kodi/userdata/keymaps/keyboard.bak
+cp mapping_keyboard /home/pi/.kodi/userdata/keymaps/keyboard.xml
 echo -e "......................................................DONE\n";
 
 

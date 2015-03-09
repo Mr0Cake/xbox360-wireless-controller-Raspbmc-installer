@@ -1,2 +1,2 @@
 #!/bin/bash
-xboxdrv --config /home/pi/xbox/mapping_xbox --detach-kernel-driver --silent &
+xboxdrv --config /home/pi/xbox/mapping_xbox --detach-kernel-driver --silent & 
